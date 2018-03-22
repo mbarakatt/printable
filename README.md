@@ -10,5 +10,8 @@ bash script.sh some_book.epub
 * pandoc
 * pdflatex
 
+# Note
+The script now converts line returns into semicolon so that it's now even more dense
+
 ## Example output
 ![this_wate](./demo.jpg)
